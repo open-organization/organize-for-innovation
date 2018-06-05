@@ -1,6 +1,6 @@
 # Organize for Innovation
 
-This respository contains files related to _Organize for Innovation_, a companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to _Organize for Innovation_, a companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press) and part of [the Open Organization book series from Opensource.com](https://opensource.com/open-organization/resources/book-series).
 
 ## About the book
 
