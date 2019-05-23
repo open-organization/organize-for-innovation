@@ -15,5 +15,5 @@ Compiled three years after the publication of his widely read management book, _
 In this repository, please find:
 
 - Images of the book's cover (in .png and .pdf formats)
-- A "binary" copy of the book (in .pdf format)
+- "Binary" versions of the book (in .pdf and .epub formats)
 - "Source code" for the book (in .odt format)
