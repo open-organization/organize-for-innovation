@@ -17,3 +17,4 @@ In this repository, please find:
 - Images of the book's cover (in .png and .pdf formats)
 - "Binary" versions of the book (in .pdf and .epub formats)
 - "Source code" for the book (in .odt format)
+- An e-book copy of the book (in .epub format) for reading on an e-reader, tablet, or other compatible device.
