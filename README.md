@@ -22,6 +22,6 @@ Prior to IBM, Whitehurst served as President and CEO of Red Hat, the world’s l
 
 In this repository, please find:
 
-- Images of the book's cover (in .``png`` and ``.pdf`` formats)
+- Images of the book's cover (in .``jpg``format)
 - "Binary" versions of the book (in ``.pdf`` and ``.epub`` formats)
 - "Source code" for the book (in ``.odt`` format)
